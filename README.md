@@ -21,13 +21,13 @@ Scraping www.amazon.com for product information like name, price, image and deta
 - Generate list of product details
 - Export product details to JSON file `detail_of_products.json`
 - Insert product details to MySQL database. 
-  - Dump database to `detail_of_products.dmp`
+  - Dump database to `dump-Credicxo.sql`
 
 ## How to run?
 - Activate virtual environment `source venv/bin/activate.[__YOUR_SHELL_EXTENSION__]`
   - Ex. `source venv/bin/activate.fish`
 - `pip install -r requirements.txt`
-- Open `main.ipynb`
+- Open [Jupyter Notebook](https://github.com/sagarsangwan/web-scraping-Credicxo/blob/main/main.ipynb)
 
 or
 
